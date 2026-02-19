@@ -1,6 +1,6 @@
 # MaysaOrnelas-# 
 
-👋 Olá! Eu sou a Maysa Ornelas
+# 👋 Olá! Eu sou a Maysa Ornelas
 
 🎓 **Ciência da Computação**  
 💻 **TI Júnior** | Suporte • Dados • Dev  
